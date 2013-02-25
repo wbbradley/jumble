@@ -1,13 +1,22 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+Debug/
+Release/
+.DS_Store
+*.*v3
+*.pbxuser
+*.pdb
+*.ilk
+*.ncb
+*.sdf
+*.suo
+*.aps
+build/
+*.class
+*.apk
+*.ap_
+*.dex
+*.orig
+tags
+*xcworkspace*
+*xcuserdata*
+jumble
+dictionary.txt
